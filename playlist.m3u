@@ -1,13 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1Kanal.ru" tvg-logo="https://raw.githubusercontent.com/orbita-iptv/logo/main/channels/1_kanal.png", Первый канал
+#EXTINF:-1 tvg-id="1Kanal.ru" tvg-logo="https://iptv-org.github.io/iptv/logos/1Kanal.png", Первый канал
 https://iptv-org.github.io/iptv/channels/ru/1Kanal.m3u8
 
-#EXTINF:-1 tvg-id="Rossiya1.ru" tvg-logo="https://raw.githubusercontent.com/orbita-iptv/logo/main/channels/rossia1.png", Россия 1
+#EXTINF:-1 tvg-id="Rossiya1.ru" tvg-logo="https://iptv-org.github.io/iptv/logos/Rossiya1.png", Россия 1
 https://iptv-org.github.io/iptv/channels/ru/Rossiya1.m3u8
 
-#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://raw.githubusercontent.com/orbita-iptv/logo/main/channels/tnt.png", ТНТ
-https://iptv-org.github.io/iptv/channels/ru/TNT.m3u8
+#EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://iptv-org.github.io/iptv/logos/NTV.png", НТВ
+https://iptv-org.github.io/iptv/channels/ru/NTV.m3u8
 
-#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://raw.githubusercontent.com/orbita-iptv/logo/main/channels/sts.png", СТС
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://iptv-org.github.io/iptv/logos/STS.png", СТС
 https://iptv-org.github.io/iptv/channels/ru/STS.m3u8
 
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://iptv-org.github.io/iptv/logos/TNT.png", ТНТ
+https://iptv-org.github.io/iptv/channels/ru/TNT.m3u8
+
+#EXTINF:-1 tvg-id="Kultura.ru" tvg-logo="https://iptv-org.github.io/iptv/logos/Kultura.png", Россия К
+https://iptv-org.github.io/iptv/channels/ru/Kultura.m3u8
