@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Perviy_kanal" group-title="Общие", Первый канал
+https://rt-russia-1.cdp.beeline.ru/0/1/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rossiya_1" group-title="Общие", Россия 1
+https://rt-russia-1.cdp.beeline.ru/0/1/2/playlist.m3u8
+
