@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Perviy_kanal" group-title="Общие", Первый канал
-https://rt-russia-1.cdp.beeline.ru/0/1/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rossiya_1" group-title="Общие", Россия 1
-https://rt-russia-1.cdp.beeline.ru/0/1/2/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/orbita-iptv/logo/main/channels/1_kanal.png", Первый канал
+https://mhd.itv.re/iptv/mhd-perviy-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/orbita-iptv/logo/main/channels/rossia1.png", Россия 1
+https://mhd.itv.re/iptv/mhd-rossiya-1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/orbita-iptv/logo/main/channels/tnt.png", ТНТ
+https://mhd.itv.re/iptv/mhd-tnt-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/orbita-iptv/logo/main/channels/sts.png", СТС
+https://mhd.itv.re/iptv/mhd-sts-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/orbita-iptv/logo/main/channels/muztv.png", МУЗ-ТВ
+https://mhd.itv.re/iptv/mhd-muz-tv-hd/index.m3u8
